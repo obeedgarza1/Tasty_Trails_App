@@ -1,0 +1,14 @@
+﻿duckdb
+folium
+numpy
+openpyxl
+plotly
+prophet
+pyspark
+scikit-learn
+streamlit
+streamlit-option-menu
+streamlit-searchbox
+streamlit_folium
+gdown
+pandas

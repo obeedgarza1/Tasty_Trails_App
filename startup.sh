@@ -1,0 +1,1 @@
+streamlit run home.py --server.port=80 --server.headless=true
